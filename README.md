@@ -8,7 +8,9 @@ This repository is the PyTorch Implementation of GCN-LPA ([arXiv](https://arxiv.
 GCN-LPA is an end-to-end model that unifies Graph Convolutional Neural Networks (GCN) and Label Propagation Algorithm (LPA) for adaptive semi-supervised node classification.
 
 ## TODO
-This repo is going to be done...
+```
+$ python main.py
+```
 
 ## Required packages
 
